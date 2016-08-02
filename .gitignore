@@ -1,0 +1,15 @@
+Library
+*_Data
+obj
+Temp
+*.csproj
+*.unityproj
+*.exe
+*.sln
+*.userprefs
+*.suo
+*.apk
+*.rar
+*.zip
+.svn
+*.mp4
